@@ -2,6 +2,8 @@
 
 ![Design preview for the Social links profile coding challenge](./preview.jpg)
 
+Preview Live: https://olaniyan18.github.io/Social-Link/
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
